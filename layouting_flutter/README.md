@@ -33,4 +33,4 @@ class LayoutingFlutter extends StatelessWidget {
 
 dan berikut adalah tampilan dari screenshoot dari baris kode diatas
 
-<img src="https://github.com/koderspeach/Flutter-Study-Jam/blob/master/layouting_flutter/Screenshot%20from%202018-08-12%2009-48-06.png"/>
+<img src="https://github.com/koderspeach/Flutter-Study-Jam/blob/master/layouting_flutter/screenshoot.png"/>
